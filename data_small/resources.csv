@@ -1,0 +1,6 @@
+id,name,is_machine
+1,ЧПУ Alpha,True
+2,Станок-2,True
+3,Фрезерный-3,True
+4,Иванов (токарь),False
+5,Петров (сборщик),False
